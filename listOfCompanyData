@@ -1,0 +1,46 @@
+[
+    {
+        "id": "BobsFinance",
+        "companyName": "Bobs Finance",
+        "companyMiniDescription": "This is the company description",
+        "companyServiceCategory": "bookkeeping",
+        "isCompanyRemote": "Yes",
+        "companyZipCode": 22032
+    },
+
+    {
+        "id": "BobsFinance",
+       "companyName": "Bobs Finance",
+        "companyMiniDescription": "This is the company description",
+        "companyServiceCategory": "bookkeeping",
+        "isCompanyRemote": "Yes",
+        "companyZipCode": 22032
+    },
+    
+    {
+        "id": "BettysBookkeeping",
+        "companyName": "Betty's Bookkeeping",
+        "companyMiniDescription": "This is the company description",
+        "companyServiceCategory": "bookkeeping",
+        "isCompanyRemote": "Yes",
+        "companyZipCode": 22032
+    },
+
+    {
+        "id": "SallysFinance",
+       "companyName": "Sallys Finance",
+        "companyMiniDescription": "This is the company description",
+        "companyServiceCategory": "financialPlanning",
+        "isCompanyRemote": "Yes",
+        "companyZipCode": 22032
+    },
+
+    {
+        "id": "BobsFinance",
+       "companyName": "Bobs Finance",
+        "companyMiniDescription": "This is the company description",
+        "companyServiceCategory": "taxPreparation",
+        "isCompanyRemote": "Yes",
+        "companyZipCode": 22032
+    }
+]
